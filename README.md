@@ -4,6 +4,8 @@ This repository forms a Python implementation of the EB_AUTO Spreadsheet Energy 
 
 The model calculates each component of the surface energy balance and then, optionally, the amount of melting caused by each SEB component.
 
+[![DOI](https://zenodo.org/badge/132769539.svg)](https://zenodo.org/badge/latestdoi/132769539)
+
 ## Requirements
 
 * Python >= 2.7
